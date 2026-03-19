@@ -4,7 +4,7 @@
   }
 }
 {
-  "homepage": "https://USERNAME.github.io/attendance-app",
+  "homepage": "https://ayhamabozed25-spec.github.io/Attendance_System/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
