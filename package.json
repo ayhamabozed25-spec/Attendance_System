@@ -3,3 +3,10 @@
     "gh-pages": "^6.3.0"
   }
 }
+{
+  "homepage": "https://USERNAME.github.io/attendance-app",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
