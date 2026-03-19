@@ -3,10 +3,3 @@
     "gh-pages": "^6.3.0"
   }
 }
-{
-  "homepage": "https://ayhamabozed25-spec.github.io/Attendance_System/",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  }
-}
